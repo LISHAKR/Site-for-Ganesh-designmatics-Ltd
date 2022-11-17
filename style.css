@@ -1,0 +1,31 @@
+
+ /* background image */
+   .background {
+    background:rgba(0,0,0,0.7) url('file:///C:/Users/LISHA/Downloads/image.jpg');
+    background-size: cover;
+    
+  }
+    .about{
+      height: 100vh;
+    }
+    .bottom{
+      width: 50%;
+      font-size: 35px;
+      color: whitesmoke;
+     padding-top: 25%;
+     padding-left: 70px;
+    }
+    .btm{
+      width: 50%;
+      font-size: 25px;
+      color: whitesmoke;
+      padding-top: 20px;
+      padding-left: 70px;
+    }
+     .button{
+      padding-top: 20px;
+      padding-left: 70px;
+      font-size: 25px;
+      
+     }
+     
